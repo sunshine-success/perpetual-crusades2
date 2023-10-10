@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fe9851f5.css",
+    "main.js": "./static/js/main.cb8b460e.js",
+    "static/media/Mighty Knight.png": "./static/media/Mighty Knight.43d9e3beaa7e6820c8f6.png",
+    "static/media/Ancient Wizard.png": "./static/media/Ancient Wizard.18d052f2c05c4d8ec5ef.png",
+    "static/media/Stealthy Rogue.png": "./static/media/Stealthy Rogue.ab3f7fef6b0f75ff0821.png",
+    "static/media/Baneful Blue Dragon.png": "./static/media/Baneful Blue Dragon.bfbc5f0c623507aabf6d.png",
+    "static/media/Noxious Green Dragon.png": "./static/media/Noxious Green Dragon.de67ac694146d44c29d5.png",
+    "static/media/Fiery Red Dragon.png": "./static/media/Fiery Red Dragon.53ac127d68e6af46ce47.png",
+    "index.html": "./index.html",
+    "main.fe9851f5.css.map": "./static/css/main.fe9851f5.css.map",
+    "main.cb8b460e.js.map": "./static/js/main.cb8b460e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe9851f5.css",
+    "static/js/main.cb8b460e.js"
+  ]
+}
